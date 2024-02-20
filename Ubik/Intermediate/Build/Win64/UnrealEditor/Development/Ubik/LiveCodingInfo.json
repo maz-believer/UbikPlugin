@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.Ubik.cpp.obj": [
+			"Ubik.init.gen.cpp.obj",
+			"UbikDevelopperSettings.gen.cpp.obj",
+			"UbikElevenLabsApiRequest.gen.cpp.obj",
+			"UbikTypes.gen.cpp.obj",
+			"Ubik.cpp.obj",
+			"UbikElevenLabsApiRequest.cpp.obj"
+		]
+	}
+}
